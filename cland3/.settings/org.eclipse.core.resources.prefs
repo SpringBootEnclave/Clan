@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin/auth/login.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/auth/login.jsp=UTF-8
+encoding//src/vn/edu/vinaenter/constant/Defines.java=UTF-8
+encoding//src/vn/edu/vinaenter/controller/AdminIndexController.java=UTF-8
+encoding//src/vn/edu/vinaenter/controller/AdminLandController.java=UTF-8
+encoding//src/vn/edu/vinaenter/controller/AdminUserController.java=UTF-8
+encoding//src/vn/edu/vinaenter/controller/TestPasswordController.java=UTF-8
+encoding//src/vn/edu/vinaenter/model/bean/Contact.java=UTF-8
+encoding//src/vn/edu/vinaenter/model/bean/Land.java=UTF-8
+encoding//src/vn/edu/vinaenter/model/bean/User.java=UTF-8
